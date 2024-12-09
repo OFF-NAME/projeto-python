@@ -1,0 +1,30 @@
+[
+    {
+        "id": 0,
+        "names": "Alice Johnson",
+        "email": "123@student.com",
+        "password": "123",
+        "ativo": true
+    },
+    {
+        "id": 1,
+        "names": "Ethan Smith",
+        "email": "2141225@student.com",
+        "password": "StrongP@ss1",
+        "ativo": true
+    },
+    {
+        "id": 2,
+        "names": "Sophia Davis",
+        "email": "2141226@student.com",
+        "password": "MyPass#789" ,
+        "ativo": true
+    },
+    {
+        "id": 3,
+        "names": "Mia Thompson",
+        "email": "2141227@student.com",
+        "password": "Secure*456",
+        "ativo": true
+    }
+]
